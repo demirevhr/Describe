@@ -1,7 +1,8 @@
 # Describe!
 ## Rules
 
--              	The game is played in teams. Each round one member per team describes a word to their teammate(s) using different methods :
+-	The game is played in teams. 
+-	Each round one member per team describes a word to their teammate(s) using different methods :
     -	S - Speaking 	    (round lasts 1 minute)
     -	G - using Gestures	    (round lasts 1 minute)
     -	D - Drawing	    (round lasts 2 minutes)
@@ -46,7 +47,7 @@ Welcome to Describe!
 Here are the available commands :
 create-game <game-name>	 - create a game with name "game-name"
 join-game [<game-name>] 	- join a game with a given name or join a random game
-list-games              		- get a list of pending games
+list-games              	- get a list of pending games
 disconnect             	 	- disconnect from server
 ```
 
